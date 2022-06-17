@@ -1,5 +1,3 @@
-from ensurepip import bootstrap
-
 
 try:
     from kafka import KafkaProducer
@@ -22,7 +20,7 @@ for _ in range(5):
     }
     _payload = json.dumps(_data).encode("utf-8")
     response=producer.send('FirstTopic',_payload)
-    print(response)
+    print(_data)
 
 
     sleep(2)
