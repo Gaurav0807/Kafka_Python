@@ -11,3 +11,4 @@
 
 
 # Kafka Producer :- Produces the data
+https://github.com/Gaurav0807/Kafka_Python/blob/master/Learning_Kafka/Images/Kafka_Consumer.png
