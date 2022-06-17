@@ -2,12 +2,12 @@
 
 
 # Steps:-
-. Create Virtual Environment in Folder (venv\Scripts\activate)
-. Install pip install kafka-python
-. Install all the imports that required
+. Create Virtual Environment in Folder (venv\Scripts\activate) <br />
+. Install pip install kafka-python <br />
+. Install all the imports that required <br />
 
-. Run: docker-compose up --build
-. Then run producer.py and consumer.py
+. Run: docker-compose up --build <br />
+. Then run producer.py and consumer.py <br />
 
 
 # Kafka Producer :- Produces the data
