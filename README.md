@@ -12,3 +12,7 @@
 
 # Kafka Producer :- Produces the data
 ! [Screenshot] https://github.com/Gaurav0807/Kafka_Python/blob/master/Learning_Kafka/Images/Kafka_Consumer.png
+<p align="center">
+  <img src="https://github.com/Gaurav0807/Kafka_Python/blob/master/Learning_Kafka/Images/Kafka_Consumer.png" width="350" title="hover text">
+  
+</p>
