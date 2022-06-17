@@ -8,3 +8,6 @@
 
 # Run: docker-compose up --build
 # Then run producer.py and consumer.py
+
+
+# Kafka Producer :- Produces the data
