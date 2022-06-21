@@ -15,9 +15,9 @@ def main():
     consumer = KafkaConsumer(
         os.getenv("KAFKA_TOPIC"),
         bootstrap_servers=['localhost:9092'],
-        auto_offset_reset='earliest',
-        enable_auto_commit=True,
-        group_id='mygroup'
+        auto_offset_reset='earliest', # Start consumer from where it failed 
+        enable_auto_commit=True,  # Start consumer from where it failed 
+        group_id='mygroup' # Start consumer from where it failed 
     )
     
     for msg in consumer:
