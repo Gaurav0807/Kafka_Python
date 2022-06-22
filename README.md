@@ -24,5 +24,6 @@
 
 
 # Multiple Consumer 
-. When we run multiple consumer then any consumer can start to consume but if any other consumer1 stop then consumer2 will start consuming it .
+. When we run multiple consumer then any consumer can start to consume but if any other consumer1 stop then consumer2 will     
+  start consuming it .
 (Note :- group_id should be same for both consumer) 
